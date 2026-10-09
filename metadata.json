@@ -1,0 +1,6 @@
+{
+  "name": "Critical Minerals & Geopolitical Leverage Intelligence Dashboard",
+  "description": "Executive intelligence platform analyzing global critical mineral processing monopolies, supply chain chokepoints, resource nationalism, and counter-strategy frameworks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
